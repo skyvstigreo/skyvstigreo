@@ -2,7 +2,7 @@
 
 **Cybersecurity Professional | Vulnerability Management Specialist | Cloud Security**
 
-I'm a cybersecurity professional with 2+ years of experience in vulnerability management across cloud, on-premises, endpoint, and external attack surfaces. I specialize in risk-based vulnerability prioritization, attack path analysis, and security operations — with a track record of reducing exploitable risk and automating reporting to align technical findings with business impact.
+I'm a cybersecurity professional with 2+ years of experience in vulnerability management across cloud, on-premises, endpoint. I specialize in risk-based vulnerability prioritization, attack path analysis, and security operations — with a track record of reducing exploitable risk and automating reporting to align technical findings with business impact.
 
 ---
 
